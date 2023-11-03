@@ -1,0 +1,34 @@
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.manifest
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.application
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\bin\Debug\agq\hesapmakinesi.resources.dll
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.agq.resources
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\agq\hesapmakinesi.resources.dll
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe.manifest
+C:\Users\RTX 3060 R5 5500\Desktop\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.application
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.manifest
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.application
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\bin\Debug\agq\hesapmakinesi.resources.dll
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.agq.resources
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\agq\hesapmakinesi.resources.dll
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe.manifest
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.application
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\RTX 3060 R5 5500\Desktop\C# Projeler\Projeler Ham Halde\HesapmakinesiV0.0.1\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
